@@ -1,6 +1,6 @@
 # Awesome-Workflow-Automation
 
-# Top Workflow Automation Tools Ecosystem
+## Top Workflow Automation Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on No-Code/Low-Code Automation, Integration Platforms (iPaaS), Triggers & Actions, and Orchestration*  
